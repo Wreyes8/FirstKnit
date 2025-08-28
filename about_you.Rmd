@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Wailana Reyes"
 output: 
   html_document:
     number_sections: true
@@ -18,6 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
+I attended and graduated from Learn4Life this year. When comparing English and Math, Math seems like an easier subject to me. I did best in Math.
 
      
 
@@ -26,6 +27,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
+  I have an HP computer at home. I would rate myself a 5 based on my knowledge of computers, I am confident in using basic applications. I have good internet connection at home.
   
    
 
